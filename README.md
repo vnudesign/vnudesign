@@ -1,4 +1,4 @@
-# Product Designer #
+# Product Manager #
 ## About ##
 Vinay is a Goa University Engineering graduate with a specialization in Computer, and has over 17
 years of experience in IT solution design, human-centric product design, product management and
